@@ -6,8 +6,6 @@ G'day, I'm Thomas, a full-time high school student from Adelaide, Australia, in 
 
 I made my own tech company Sky Enterprises. I plan to make all kinds of technology, especially smart tech such as a Virtual Assistant called Skyla, a Smart Mirror and other software such as an operating system, project planner and more, If you want to take a look, my website is linked below.
 
-<br>
-
 - I am currently working with HTML, CSS, JS, PHP and C#, and am going to be learning Python, C, C++ and Assembly for future projects soon.
 - I have been working on a bunch of projects on and off recently, but my two main projects are a Video Sharing and Music Streaming platform.
 - Some of my more notable public projects I'm working on at the moment are:
@@ -20,8 +18,6 @@ I made my own tech company Sky Enterprises. I plan to make all kinds of technolo
   
  - If you want to read more about these projects, or see some of my others, go here: [https://www.skyenterprisesau.com/projects]
   
-<br>
-
 ### Connect with me:
 
 [<img align="left" alt="skyenterprisesau.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -44,8 +40,6 @@ I made my own tech company Sky Enterprises. I plan to make all kinds of technolo
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png">
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png">
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br>
 
 # Images of some of my projects
 
