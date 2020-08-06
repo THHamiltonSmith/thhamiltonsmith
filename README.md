@@ -21,13 +21,14 @@ I made my own tech company Sky Enterprises. I plan to make all kinds of technolo
 ### Connect with me:
 
 [<img align="left" alt="skyenterprisesau.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Skyfall106 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
+[<img align="left" alt="Sky Enterprises | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
 [<img align="left" alt="Thomas Hamilton-Smith | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Thomas Hamilton-Smith | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Skyfall106 | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][reddit]
-[<img align="left" alt="Sky Enterprises | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube1]
+[<img align="left" alt="Skyfall106 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube2]
+
 <br><br>
- *Sky Enterprises Website | My Twitter | Skyfall106 YouTube - Gaming Videos | Sky Enterprises YouTube | My Reddit | My Instagram*
+ *Sky Enterprises Website | Sky Enterprises YouTube | My Twitter | My Instagram | My Reddit | Skyfall106 YouTube - Gaming Videos*
 
 ### Languages and Tools:
 
