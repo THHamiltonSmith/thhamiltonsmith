@@ -14,5 +14,4 @@ I started my own tech company called Sky Enterprises. I plan to make all kinds o
 
 - I am currently working with HTML, CSS, JS, PHP and C#, and am going to be learning Python, C, C++ and Assembly for future projects soon.
 - I have been working on a bunch of projects on and off recently, but my two main projects are my <a href="https://skyenterprisesau.com/skyla">Skyla</a> assistant and a podcast app.
- - If you want to see all my planned and in-dev projects, go here: [https://www.skyenterprisesau.com/projects]
-
+ - If you want to see all my planned and in-dev projects, go to https://www.skyenterprisesau.com/projects
