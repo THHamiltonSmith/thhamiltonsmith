@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/THHamiltonSmith/Sky-Enterprises/master/Branding/Banners/Twitter-Banner.jpg?token=AEYBD67WLJ7MADYSKO24KOTAQAXNO" alt="Sky Enterprises Banner">
+<img src="https://raw.githubusercontent.com/THHamiltonSmith/Sky-Enterprises/master/Branding/Banners/Twitter-Banner.jpg?token=AEYBD62IYKZB4YBCCKP4OODAQC4AA" alt="Sky Enterprises Banner">
 
 ## Hey there,
 
