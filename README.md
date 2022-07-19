@@ -8,7 +8,7 @@ I have been coding since 2016 starting with HTML and CSS for basic web developme
 
 > "I want to put a ding in the universe." - Steve Jobs
 
-I started my own tech company called Sky Enterprises. I plan to make all kinds of technology, especially smart tech such as a virtual assistant, smart mirror and other software such as an operating system, project planner and more, If you want to take a look at my projects in detail, visit my <a href="https://www.skyenterprisesau.com">company's website.</a>
+I started my own tech company called Sky Enterprises. I plan to make all kinds of technology, especially smart tech such as a virtual assistant, smart mirror as well as other software like an operating system, project planner and more. If you want to take a look at my projects in detail, visit my <a href="https://www.skyenterprisesau.com">company's website.</a>
 
 ### What I'm working on
 
