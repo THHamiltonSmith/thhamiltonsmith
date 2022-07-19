@@ -15,4 +15,4 @@ I started my own tech company called Sky Enterprises. I plan to make all kinds o
 - I am currently working with HTML, CSS, JS, PHP and C#, and am going to be learning Python, C, C++ and Assembly for future projects soon.
 - The main project I am working on at the moment is called <a href="https://www.skyenterprisesau.com/filmatic">Filmatic</a>, a movie streaming service for films made by independant filmmakers. I am also working on <a href="https://www.skyenterprisesau.com/filmatic">vCast</a>, a podcast hosting app and some other projects you can see on my website.
 - I am also trying to start an open-source initivate called <a href="https://github.com/THHamiltonSmith/webdevhub">WebDevHub</a> which is a hub of tools for web developers. If you like, check out the GitHub page and think about contributing to help make the site even better!
-- Theres more I'm working on that's coming soon, so stay tuned!
+- Theres more I'm working on that's coming soon, so stay tuned! For any discussion, join my <a href="https://discord.gg/WJaQFcP">Discord</a>.
