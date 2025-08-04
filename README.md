@@ -25,7 +25,7 @@ JavaScript, TypeScript, Node.js, Python, C#, C++, SwiftUI, HTML/CSS/SCSS
 Express.js, MongoDB, Firebase, Socket.IO, AWS, Stripe, Git, Heroku, Google Cloud, EJS, Passport.js
 
 ## What's Next?
-- Completing Computer Science (Advanced) with honours, majoring in Artifical Intelligence / Machine Learning
+- Completing Computer Science (Advanced) with honours, majoring in Artificial Intelligence / Machine Learning
 - Exploring graduate research in AI/Machine Learning, perhaps in regards to Space Exploration.
 - Growing Sky Enterprises into a billion dollar unicorn startup.
 
