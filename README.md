@@ -1,18 +1,70 @@
-<img src="https://raw.githubusercontent.com/THHamiltonSmith/thhamiltonsmith/master/Twitter-Banner.jpg" alt="Sky Enterprises Banner">
+<img src="https://raw.githubusercontent.com/THHamiltonSmith/thhamiltonsmith/refs/heads/master/Header-Photo.jpg" alt="Header Photo" />
 
-## Hey there,
+## Hey, I'm Thomas 👋
 
-My name is Thomas. I am a full-time high school student from Adelaide, Australia, studying to get into university for a PHD in Advanced Computer Science at the University of Adelaide, or if I get the chance, maybe Stanford or MIT.
+I'm a full-stack developer and third-year Computer Science (Advanced) student at the University of Adelaide, passionate about building fast, scalable software that solves real problems. I founded my own startup **Sky Enterprises**, where I try to challenge the status quo through ambitious projects and products. Learn more about Sky Enterprises [here](https://www.skyenterprisesau.com)
 
-I have been coding since 2016 starting with HTML and CSS for basic web development, until moving on to Unity game development with C#, and other projects using C# and JS. I enjoy rowing and going to the gym, playing games and going out with my mates.
+> "I want to put a ding in the universe." – Steve Jobs
 
-> "I want to put a ding in the universe." - Steve Jobs
+---
 
-I started my own tech company called Sky Enterprises. I plan to make all kinds of technology, especially smart tech such as a virtual assistant, smart mirror as well as other software like an operating system, project planner and more. If you want to take a look at my projects in detail, visit my <a href="https://www.skyenterprisesau.com">company's website.</a>
+## Featured Projects
 
-### What I'm working on
+**[Filmatic](https://www.skyenterprisesau.com/filmatic)** | *Node.js, Stripe, Socket.IO, MongoDB, AWS*  
+Custom-built streaming service for independent filmmakers, featuring real-time sync, integrated payments, content moderation tools, and mobile support.
 
-- I am currently working with HTML, CSS, JS, PHP and C#, and am going to be learning Python, C, C++ and Assembly for future projects soon.
-- The main project I am working on at the moment is called <a href="https://www.skyenterprisesau.com/filmatic">Filmatic</a>, a movie streaming service for films made by independant filmmakers. I am also working on <a href="https://www.skyenterprisesau.com/filmatic">vCast</a>, a podcast hosting app and some other projects you can see on my website.
-- I am also trying to start an open-source initivate called <a href="https://github.com/THHamiltonSmith/webdevhub">WebDevHub</a> which is a hub of tools for web developers. If you like, check out the GitHub page and think about contributing to help make the site even better!
-- Theres more I'm working on that's coming soon, so stay tuned! For any discussion, join my <a href="https://discord.gg/WJaQFcP">Discord</a>.
+**[Rollcall](https://www.rollcallapp.social/)** | *SwiftUI, Node.js, XCode, AWS*  
+iOS social challenge app where friend groups build streaks through daily challenges. Live on the App Store with punishment mechanics for failed submissions.
+
+**[NightPulse](https://www.nightpulse.com.au/)** | *Node.js, Firebase*  
+Venue rewards and deals platform, currently serving 20+ venues and 5000+ users. Created a backend platform for venues with live updates and automation tools.
+
+**Frostbyte** | *TypeScript, Express.js, MongoDB* (In Development)  
+Developer-focused project planning tool for managing bugs, features, API routes, schemas and roadmaps. Built to be lightweight, fast, and collaborative.
+
+**Other cool tools and experiments coming soon...**
+
+---
+
+## Tech Stack
+
+**Languages:**  
+JavaScript, TypeScript, Node.js, Python, C#, C++, SwiftUI, HTML/CSS/SCSS
+
+**Frameworks & Tools:**  
+Express.js, MongoDB, Firebase, Socket.IO, AWS, Stripe, Git, Heroku, Google Cloud, EJS, Passport.js
+
+---
+
+## What Drives Me
+
+I believe in building software that's **fast by default**, **beautiful by design**, and **developer-friendly** at its core. My focus areas include:
+
+- Clean, intuitive user interfaces. I like things that look good.
+- Real-time interactivity and performance. Speed is king.
+- Developer-first tooling and workflows. Efficiency is also king.
+- Ambitious side projects (perhaps too many at once)
+
+---
+
+## What's Next?
+- Completing Computer Science (Advanced) with honours, majoring in Artifical Intelligence / Machine Learning
+- Exploring graduate research in AI/Machine Learning, perhaps in regards to Space Exploration.
+- Growing Sky Enterprises into a billion dollar unicorn startup.
+
+## GitHub Stats
+
+![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=THHamiltonSmith&show_icons=true&theme=dark)
+
+---
+
+## Connect With Me
+
+- 🔗 **Website:** [skyenterprisesau.com](https://www.skyenterprisesau.com)
+- 💼 **LinkedIn:** [Thomas Hamilton-Smith](https://www.linkedin.com/in/thomas-hamilton-smith-98511833b)
+- 📨 **Email:** thamiltonsmith@outlook.com
+- Resume can be provided upon request.
+
+---
+
+*Always open to collaborating on interesting projects or discussing new technologies. Feel free to reach out!*
