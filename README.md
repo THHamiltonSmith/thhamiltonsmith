@@ -36,28 +36,13 @@ Express.js, MongoDB, Firebase, Socket.IO, AWS, Stripe, Git, Heroku, Google Cloud
 
 ---
 
-## What Drives Me
-
-I believe in building software that's **fast by default**, **beautiful by design**, and **developer-friendly** at its core. My focus areas include:
-
-- Clean, intuitive user interfaces. I like things that look good.
-- Real-time interactivity and performance. Speed is king.
-- Developer-first tooling and workflows. Efficiency is also king.
-- Ambitious side projects (perhaps too many at once)
-
----
-
 ## What's Next?
 - Completing Computer Science (Advanced) with honours, majoring in Artifical Intelligence / Machine Learning
 - Exploring graduate research in AI/Machine Learning, perhaps in regards to Space Exploration.
 - Growing Sky Enterprises into a billion dollar unicorn startup.
 
-## GitHub Stats
-
-![Thomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=THHamiltonSmith&show_icons=true&theme=dark)
 
 ---
-
 ## Connect With Me
 
 - 🔗 **Website:** [skyenterprisesau.com](https://www.skyenterprisesau.com)
